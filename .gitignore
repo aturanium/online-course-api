@@ -2,4 +2,5 @@ target/
 *.war
 *.jar
 *.log
+.env
 firebase-service-account.json
