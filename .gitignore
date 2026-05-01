@@ -1,0 +1,5 @@
+target/
+*.war
+*.jar
+*.log
+firebase-service-account.json
